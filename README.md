@@ -13,8 +13,8 @@
 #  3.) Setting up my project and running it :- 
 #  Download the zip code from my github repository.
 #  Open my project in the vscode.
-#  Open a terminal and run the command "cd frontend" followed by "npm start" to start the frontend of the project.
-#  Open another terminal and run the command "cd backend" followed by "nodemon server.js" to start the backend of the project.
+#  Open a terminal and run the command "cd frontend" followed by "npm i" to download nodemodules and followed by "npm start" to start the frontend of the project.
+#  Open another terminal and run the command "cd backend" followed by "npm i express" to install express and followed by "nodemon server.js" to start the backend of the project.
 
 
 #  4.) Additional libraries used in nodejs are :- 
